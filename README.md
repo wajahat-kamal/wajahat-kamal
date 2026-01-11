@@ -1,6 +1,6 @@
-# Hi, I'm Wajahat Kamal! 👋
+# Hey, I'm Wajahat Kamal! 👋
 
-I'm a **Full Stack Developer** passionate about building **modern, responsive, and high-performance web applications** using the MERN stack. I love transforming ideas into **interactive digital experiences** that are visually appealing and user-friendly.  
+I'm a **Full Stack Developer** passionate about building **modern, responsive, and high-performance web applications** using the MERN stack and Next.js. I love transforming ideas into **interactive digital experiences** that are visually appealing and user-friendly.  
 My focus is on writing **clean, efficient code** while continuously learning **new technologies** to grow as a developer.
 
 ---
